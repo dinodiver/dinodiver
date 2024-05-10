@@ -4,13 +4,13 @@ Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a ri
 
 ## 🌊 About Me
 
-- **Education**: B.S. in Biology from Creighton University, M.S. in Marine Science from the University of North Carolina-Wilmington.
+- **Education**: M.S. in Marine Science from the University of North Carolina-Wilmington, B.S. in Biology from Creighton University.
 - **Research Interests**: Coastal biogeochemical dynamics, satellite remote sensing, and the integration of in-situ measurements with satellite imagery.
 - **Hobbies**: Scuba diving, kayaking, running, and exploring the outdoors.
 
 ## 📚 Projects
 
-- **Satellite Imagery Analysis**: Evaluating the precision of HawkEye satellite sensors in capturing ocean color imagery, with applications in coastal and estuarine environments.
+- **Satellite Imagery Analysis**: Evaluating the accuracy of the SeaHawk-HawkEye satellite sensor in capturing ocean color imagery, with applications in coastal and estuarine environments.
 - **Coastal Biogeochemical Analysis**: My master's thesis project focused on integrating in-situ measurements and satellite imagery to enhance understanding of biogeochemical dynamics in the Cape Fear River Estuary.
 
 ## 🛠 Skills
