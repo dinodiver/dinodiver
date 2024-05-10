@@ -12,7 +12,6 @@ Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a ri
 
 - **Satellite Imagery Analysis**: Evaluating the precision of HawkEye satellite sensors in capturing ocean color imagery, with applications in coastal and estuarine environments.
 - **Coastal Biogeochemical Analysis**: My master's thesis project focused on integrating in-situ measurements and satellite imagery to enhance understanding of biogeochemical dynamics in the Cape Fear River Estuary.
-- **Interactive Dive Map**: A web-based application showcasing hundreds of my dive logs around the world, integrating multimedia content and geospatial data.
 
 ## 🛠 Skills
 
