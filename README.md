@@ -22,8 +22,10 @@ Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a ri
 
 ## 📫 How to Reach Me
 
+- **YouTube**: [Watch my videos on YouTube](https://www.youtube.com/@dinodiver11)
+- **Facebook**: [Follow me on Facebook](https://facebook.com/mitch.torkelson)
 - **LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/mitch-torkelson)
-- **Email**: [mitch.torkelson@example.com](mailto:mitch.torkelson@gmail.com)
+- **Email**: [Email me](mailto:mitch.torkelson@gmail.com)
 - **Professional Portfolio**: [View my professional portfolio](https://dinodiver.github.io/mitchtorkelson/)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have questions or opportunities for collaboration!
