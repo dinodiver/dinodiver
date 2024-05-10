@@ -15,8 +15,9 @@ Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a ri
 
 ## 🛠 Skills
 
-- **Languages**: Python, R, SQL
-- **Tools**: ESRI ArcGIS, QGIS, NetCDF, GitHub
+- **Programming**: Python scripting, R, ArcGIS Model Builder
+- **Tools**: ESRI ArcGIS, ENVI, QGIS, GitHub
+- **Data Management**: NetCDF, SQL databases, version control systems (Git).
 - **Others**: Data analysis, spatial analysis, remote sensing
 
 ## 📫 How to Reach Me
