@@ -1,16 +1,28 @@
-### Hi there 👋
+# Mitch Torkelson
 
-<!--
-**dinodiver/dinodiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a rich background in marine science and conservation. With expertise in remote sensing, GIS, and data analytics, I've been involved in various projects that leverage technology to understand and protect our oceans. Welcome to my GitHub page where I share projects and code from my research and personal explorations.
 
-Here are some ideas to get you started:
+## 🌊 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education**: B.S. in Biology from Creighton University, M.S. in Marine Science from the University of North Carolina-Wilmington.
+- **Research Interests**: Coastal biogeochemical dynamics, satellite remote sensing, and the integration of in-situ measurements with satellite imagery.
+- **Hobbies**: Scuba diving, kayaking, and exploring the outdoors.
+
+## 📚 Projects
+
+- **Satellite Imagery Analysis**: Evaluating the precision of HawkEye satellite sensors in capturing ocean color imagery, with applications in coastal and estuarine environments.
+- **Coastal Biogeochemical Analysis**: My master's thesis project focused on integrating in-situ measurements and satellite imagery to enhance understanding of biogeochemical dynamics in the Cape Fear River Estuary.
+- **Interactive Dive Map**: A web-based application showcasing hundreds of my dive logs around the world, integrating multimedia content and geospatial data.
+
+## 🛠 Skills
+
+- **Languages**: Python, R, SQL
+- **Tools**: ESRI ArcGIS, QGIS, NetCDF, GitHub
+- **Others**: Data analysis, spatial analysis, remote sensing
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/mitch-torkelson)
+- **Email**: [mitch.torkelson@example.com](mailto:mitch.torkelson@example.com)
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have questions or opportunities for collaboration!
