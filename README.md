@@ -6,7 +6,7 @@ Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a ri
 
 - **Education**: B.S. in Biology from Creighton University, M.S. in Marine Science from the University of North Carolina-Wilmington.
 - **Research Interests**: Coastal biogeochemical dynamics, satellite remote sensing, and the integration of in-situ measurements with satellite imagery.
-- **Hobbies**: Scuba diving, kayaking, and exploring the outdoors.
+- **Hobbies**: Scuba diving, kayaking, running, and exploring the outdoors.
 
 ## 📚 Projects
 
@@ -23,5 +23,6 @@ Hello! I'm Mitch, a passionate marine scientist and geospatial analyst with a ri
 
 - **LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/mitch-torkelson)
 - **Email**: [mitch.torkelson@example.com](mailto:mitch.torkelson@example.com)
+- **Professional Portfolio**: [View my professional portfolio](https://dinodiver.github.io/mitchtorkelson/)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have questions or opportunities for collaboration!
